@@ -1,4 +1,2 @@
 # Financial-Data-Science
-
----
 ---
